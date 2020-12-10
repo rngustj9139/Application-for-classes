@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="monday14" type="id" />
+    <item name="monday15" type="id" />
+    <item name="tuesday14" type="id" />
+    <item name="tuesday15" type="id" />
+    <item name="wednesday14" type="id" />
+    <item name="wednesday15" type="id" />
+    <item name="thursday14" type="id" />
+    <item name="thursday15" type="id" />
+    <item name="friday14" type="id" />
+    <item name="friday15" type="id" />
+</resources>
